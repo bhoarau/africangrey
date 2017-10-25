@@ -1,0 +1,15 @@
+body{
+    font-size: 20px;
+    color: blue;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+.tip{
+    font-size:48px;
+    color:purple;
+    font-family: 'Oswald', sans-serif;
+}
+h2{
+    font-family:  'Oswald', sans-serif;
+    color: green;
+}
